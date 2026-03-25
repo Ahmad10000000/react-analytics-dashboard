@@ -1,0 +1,1326 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:5173/
+Subject: react-analytics-dashboard
+Date: Thu, 26 Mar 2026 02:40:35 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--YV8pWzUFcANrcIvCMkZmLEVMr5gS6K337C79uZcBl1----"
+
+
+------MultipartBoundary--YV8pWzUFcANrcIvCMkZmLEVMr5gS6K337C79uZcBl1----
+Content-Type: text/html
+Content-ID: <frame-D967A139DB0F9B83312EEDDC885E22AA@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:5173/
+
+<!DOCTYPE html><html lang=3D"en" class=3D""><head><meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-2e01ee26-002c-4870-9b5e-3efcd7968c72@mhtml.=
+blink" />
+   =20
+
+   =20
+
+   =20
+    <link rel=3D"icon" type=3D"image/svg+xml" href=3D"http://localhost:5173=
+/favicon.svg">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>react-analytics-dashboard</title>
+  </head>
+  <body>
+    <div id=3D"root"><div class=3D"min-h-screen bg-gray-100 text-gray-900 t=
+ransition-colors duration-300 dark:bg-gray-900 dark:text-white"><div class=
+=3D"flex"><aside class=3D"min-h-screen w-64 border-r border-gray-200 bg-whi=
+te px-5 py-6 dark:border-gray-800 dark:bg-gray-950"><div class=3D"mb-8"><h2=
+ class=3D"text-2xl font-bold text-gray-900 dark:text-white">AdminPanel</h2>=
+<p class=3D"mt-1 text-sm text-gray-500 dark:text-gray-400">Analytics Dashbo=
+ard</p></div><nav class=3D"space-y-2"><a class=3D"flex items-center gap-3 r=
+ounded-xl px-4 py-3 text-sm font-medium transition bg-gray-900 text-white d=
+ark:bg-white dark:text-gray-900" href=3D"http://localhost:5173/" data-disco=
+ver=3D"true" aria-current=3D"page"><svg xmlns=3D"http://www.w3.org/2000/svg=
+" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"=
+currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=
+=3D"round" class=3D"lucide lucide-layout-dashboard" aria-hidden=3D"true"><r=
+ect width=3D"7" height=3D"9" x=3D"3" y=3D"3" rx=3D"1"></rect><rect width=3D=
+"7" height=3D"5" x=3D"14" y=3D"3" rx=3D"1"></rect><rect width=3D"7" height=
+=3D"9" x=3D"14" y=3D"12" rx=3D"1"></rect><rect width=3D"7" height=3D"5" x=
+=3D"3" y=3D"16" rx=3D"1"></rect></svg><span>Dashboard</span></a><a class=3D=
+"flex items-center gap-3 rounded-xl px-4 py-3 text-sm font-medium transitio=
+n text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-800=
+" href=3D"http://localhost:5173/customers" data-discover=3D"true"><svg xmln=
+s=3D"http://www.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 =
+24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-line=
+cap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-users" aria-=
+hidden=3D"true"><path d=3D"M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></pat=
+h><path d=3D"M16 3.128a4 4 0 0 1 0 7.744"></path><path d=3D"M22 21v-2a4 4 0=
+ 0 0-3-3.87"></path><circle cx=3D"9" cy=3D"7" r=3D"4"></circle></svg><span>=
+Customers</span></a><a class=3D"flex items-center gap-3 rounded-xl px-4 py-=
+3 text-sm font-medium transition text-gray-600 hover:bg-gray-100 dark:text-=
+gray-300 dark:hover:bg-gray-800" href=3D"http://localhost:5173/orders" data=
+-discover=3D"true"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" h=
+eight=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" st=
+roke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=
+=3D"lucide lucide-shopping-cart" aria-hidden=3D"true"><circle cx=3D"8" cy=
+=3D"21" r=3D"1"></circle><circle cx=3D"19" cy=3D"21" r=3D"1"></circle><path=
+ d=3D"M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.6=
+5-7.43H5.12"></path></svg><span>Orders</span></a><a class=3D"flex items-cen=
+ter gap-3 rounded-xl px-4 py-3 text-sm font-medium transition text-gray-600=
+ hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-800" href=3D"http:=
+//localhost:5173/analytics" data-discover=3D"true"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"=
+none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" s=
+troke-linejoin=3D"round" class=3D"lucide lucide-chart-column" aria-hidden=
+=3D"true"><path d=3D"M3 3v16a2 2 0 0 0 2 2h16"></path><path d=3D"M18 17V9">=
+</path><path d=3D"M13 17V5"></path><path d=3D"M8 17v-3"></path></svg><span>=
+Analytics</span></a><a class=3D"flex items-center gap-3 rounded-xl px-4 py-=
+3 text-sm font-medium transition text-gray-600 hover:bg-gray-100 dark:text-=
+gray-300 dark:hover:bg-gray-800" href=3D"http://localhost:5173/notification=
+s" data-discover=3D"true"><svg xmlns=3D"http://www.w3.org/2000/svg" width=
+=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"current=
+Color" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round=
+" class=3D"lucide lucide-bell" aria-hidden=3D"true"><path d=3D"M10.268 21a2=
+ 2 0 0 0 3.464 0"></path><path d=3D"M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0=
+ 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-=
+2.738 7.326"></path></svg><span>Notifications</span></a><a class=3D"flex it=
+ems-center gap-3 rounded-xl px-4 py-3 text-sm font-medium transition text-g=
+ray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-800" href=
+=3D"http://localhost:5173/settings" data-discover=3D"true"><svg xmlns=3D"ht=
+tp://www.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" =
+fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"=
+round" stroke-linejoin=3D"round" class=3D"lucide lucide-settings" aria-hidd=
+en=3D"true"><path d=3D"M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0=
+ 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0=
+ 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.=
+34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34=
+ 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915"></path><circle cx=3D"12=
+" cy=3D"12" r=3D"3"></circle></svg><span>Settings</span></a></nav><div clas=
+s=3D"mt-8 border-t border-gray-200 pt-6 dark:border-gray-800"><button class=
+=3D"flex w-full items-center gap-3 rounded-xl px-4 py-3 text-sm font-medium=
+ text-red-600 transition hover:bg-red-50 dark:hover:bg-red-950/30"><svg xml=
+ns=3D"http://www.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0=
+ 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-lin=
+ecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-log-out" ar=
+ia-hidden=3D"true"><path d=3D"m16 17 5-5-5-5"></path><path d=3D"M21 12H9"><=
+/path><path d=3D"M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path></svg>Logo=
+ut</button></div></aside><main class=3D"flex-1 p-6"><div class=3D"space-y-6=
+"><div class=3D"mb-6 flex flex-col gap-4 md:flex-row md:items-center md:jus=
+tify-between"><div><h1 class=3D"text-3xl font-bold text-gray-900 dark:text-=
+white">Dashboard</h1><p class=3D"mt-1 text-sm text-gray-500 dark:text-gray-=
+400">Welcome back, Ahmad =F0=9F=91=8B</p></div><div class=3D"flex flex-col =
+gap-3 sm:flex-row sm:items-center"><div class=3D"flex items-center gap-2 ro=
+unded-xl border border-gray-200 bg-white px-3 py-2 shadow-sm transition-col=
+ors dark:border-gray-700 dark:bg-gray-800"><svg xmlns=3D"http://www.w3.org/=
+2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" st=
+roke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-li=
+nejoin=3D"round" class=3D"lucide lucide-search text-gray-400 dark:text-gray=
+-500" aria-hidden=3D"true"><path d=3D"m21 21-4.34-4.34"></path><circle cx=
+=3D"11" cy=3D"11" r=3D"8"></circle></svg><input placeholder=3D"Search..." c=
+lass=3D"w-40 bg-transparent text-sm text-gray-700 outline-none placeholder:=
+text-gray-400 dark:text-gray-200 dark:placeholder:text-gray-500" type=3D"te=
+xt"></div><button type=3D"button" class=3D"relative rounded-xl border borde=
+r-gray-200 bg-white p-2.5 shadow-sm transition hover:bg-gray-50 dark:border=
+-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"=
+none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" s=
+troke-linejoin=3D"round" class=3D"lucide lucide-bell text-gray-600 dark:tex=
+t-gray-200" aria-hidden=3D"true"><path d=3D"M10.268 21a2 2 0 0 0 3.464 0"><=
+/path><path d=3D"M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 =
+13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326"></path=
+></svg><span class=3D"absolute -right-1 -top-1 h-3 w-3 rounded-full bg-red-=
+500"></span></button><div class=3D"flex items-center gap-3 rounded-xl borde=
+r border-gray-200 bg-white px-3 py-2 shadow-sm dark:border-gray-700 dark:bg=
+-gray-800"><div class=3D"flex h-9 w-9 items-center justify-center rounded-f=
+ull bg-gray-900 text-sm font-semibold text-white dark:bg-white dark:text-gr=
+ay-900">A</div><div class=3D"hidden text-left sm:block"><p class=3D"text-sm=
+ font-semibold text-gray-900 dark:text-white">Ahmad</p><p class=3D"text-xs =
+text-gray-500 dark:text-gray-400">Admin</p></div></div><button type=3D"butt=
+on" class=3D"flex items-center gap-2 rounded-xl border border-gray-200 bg-w=
+hite px-4 py-2 text-sm font-medium text-gray-700 shadow-sm transition hover=
+:bg-gray-50 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-200 dark:h=
+over:bg-gray-700"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" he=
+ight=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" str=
+oke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D=
+"lucide lucide-moon" aria-hidden=3D"true"><path d=3D"M20.985 12.486a9 9 0 1=
+ 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825=
+-.004.803.401"></path></svg><span>Dark Mode</span></button></div></div><div=
+ class=3D"grid grid-cols-1 gap-6 md:grid-cols-2 xl:grid-cols-4"><div class=
+=3D"rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition ho=
+ver:shadow-md dark:border-gray-800 dark:bg-gray-950"><p class=3D"text-sm fo=
+nt-medium text-gray-500 dark:text-gray-400">Total Revenue</p><h3 class=3D"m=
+t-3 text-3xl font-bold text-gray-900 dark:text-white">$24,500</h3><p class=
+=3D"mt-3 text-sm font-medium text-green-600 dark:text-green-400">+12.5% fro=
+m last month</p></div><div class=3D"rounded-2xl border border-gray-200 bg-w=
+hite p-6 shadow-sm transition hover:shadow-md dark:border-gray-800 dark:bg-=
+gray-950"><p class=3D"text-sm font-medium text-gray-500 dark:text-gray-400"=
+>New Users</p><h3 class=3D"mt-3 text-3xl font-bold text-gray-900 dark:text-=
+white">1,245</h3><p class=3D"mt-3 text-sm font-medium text-green-600 dark:t=
+ext-green-400">+8.2% from last month</p></div><div class=3D"rounded-2xl bor=
+der border-gray-200 bg-white p-6 shadow-sm transition hover:shadow-md dark:=
+border-gray-800 dark:bg-gray-950"><p class=3D"text-sm font-medium text-gray=
+-500 dark:text-gray-400">Orders</p><h3 class=3D"mt-3 text-3xl font-bold tex=
+t-gray-900 dark:text-white">532</h3><p class=3D"mt-3 text-sm font-medium te=
+xt-green-600 dark:text-green-400">+5.4% from last month</p></div><div class=
+=3D"rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition ho=
+ver:shadow-md dark:border-gray-800 dark:bg-gray-950"><p class=3D"text-sm fo=
+nt-medium text-gray-500 dark:text-gray-400">Conversion Rate</p><h3 class=3D=
+"mt-3 text-3xl font-bold text-gray-900 dark:text-white">4.8%</h3><p class=
+=3D"mt-3 text-sm font-medium text-green-600 dark:text-green-400">+1.2% from=
+ last month</p></div></div><div class=3D"grid grid-cols-1 gap-6 xl:grid-col=
+s-3"><div class=3D"rounded-2xl border border-gray-200 bg-white p-6 shadow-s=
+m dark:border-gray-800 dark:bg-gray-950 xl:col-span-2"><h3 class=3D"text-xl=
+ font-semibold text-gray-900 dark:text-white">Revenue Overview</h3><p class=
+=3D"mt-1 text-sm text-gray-500 dark:text-gray-400">Monthly revenue performa=
+nce</p><div class=3D"mt-6 rounded-xl border border-dashed border-gray-300 p=
+-4 dark:border-gray-700"><div class=3D"h-72"><div class=3D"recharts-respons=
+ive-container" style=3D"width: 100%; height: 100%; min-width: 0px;"><div st=
+yle=3D"width: 0px; height: 0px; overflow: visible;"><div width=3D"1411" hei=
+ght=3D"288" class=3D"recharts-wrapper" style=3D"position: relative; cursor:=
+ default; width: 1411px; height: 288px;"><div xmlns=3D"http://www.w3.org/19=
+99/xhtml" tabindex=3D"-1" class=3D"recharts-tooltip-wrapper recharts-toolti=
+p-wrapper-right recharts-tooltip-wrapper-bottom" style=3D"visibility: hidde=
+n; pointer-events: none; position: absolute; top: 0px; left: 0px; transform=
+: translate(1304.25px, 45px);"><div class=3D"recharts-default-tooltip" role=
+=3D"status" aria-live=3D"assertive" style=3D"margin: 0px; padding: 10px; ba=
+ckground-color: rgb(255, 255, 255); border: 1px solid rgb(229, 231, 235); w=
+hite-space: nowrap; border-radius: 12px; color: rgb(17, 24, 39);"><p class=
+=3D"recharts-tooltip-label" style=3D"margin: 0px; color: rgb(17, 24, 39);">=
+</p></div></div><svg role=3D"application" tabindex=3D"0" class=3D"recharts-=
+surface" width=3D"1411" height=3D"288" viewBox=3D"0 0 1411 288" style=3D"wi=
+dth: 100%; height: 100%; display: block;"><title></title><desc></desc><g ta=
+bindex=3D"-1" class=3D"recharts-zIndex-layer_-100"><g class=3D"recharts-car=
+tesian-grid"><g class=3D"recharts-cartesian-grid-horizontal"><line stroke-d=
+asharray=3D"3 3" stroke=3D"#E5E7EB" fill=3D"none" x=3D"65" y=3D"5" width=3D=
+"1341" height=3D"248" x1=3D"65" y1=3D"253" x2=3D"1406" y2=3D"253"></line><l=
+ine stroke-dasharray=3D"3 3" stroke=3D"#E5E7EB" fill=3D"none" x=3D"65" y=3D=
+"5" width=3D"1341" height=3D"248" x1=3D"65" y1=3D"191" x2=3D"1406" y2=3D"19=
+1"></line><line stroke-dasharray=3D"3 3" stroke=3D"#E5E7EB" fill=3D"none" x=
+=3D"65" y=3D"5" width=3D"1341" height=3D"248" x1=3D"65" y1=3D"129" x2=3D"14=
+06" y2=3D"129"></line><line stroke-dasharray=3D"3 3" stroke=3D"#E5E7EB" fil=
+l=3D"none" x=3D"65" y=3D"5" width=3D"1341" height=3D"248" x1=3D"65" y1=3D"6=
+7" x2=3D"1406" y2=3D"67"></line><line stroke-dasharray=3D"3 3" stroke=3D"#E=
+5E7EB" fill=3D"none" x=3D"65" y=3D"5" width=3D"1341" height=3D"248" x1=3D"6=
+5" y1=3D"5" x2=3D"1406" y2=3D"5"></line></g><g class=3D"recharts-cartesian-=
+grid-vertical"><line stroke-dasharray=3D"3 3" stroke=3D"#E5E7EB" fill=3D"no=
+ne" x=3D"65" y=3D"5" width=3D"1341" height=3D"248" x1=3D"176.75" y1=3D"5" x=
+2=3D"176.75" y2=3D"253"></line><line stroke-dasharray=3D"3 3" stroke=3D"#E5=
+E7EB" fill=3D"none" x=3D"65" y=3D"5" width=3D"1341" height=3D"248" x1=3D"40=
+0.25" y1=3D"5" x2=3D"400.25" y2=3D"253"></line><line stroke-dasharray=3D"3 =
+3" stroke=3D"#E5E7EB" fill=3D"none" x=3D"65" y=3D"5" width=3D"1341" height=
+=3D"248" x1=3D"623.75" y1=3D"5" x2=3D"623.75" y2=3D"253"></line><line strok=
+e-dasharray=3D"3 3" stroke=3D"#E5E7EB" fill=3D"none" x=3D"65" y=3D"5" width=
+=3D"1341" height=3D"248" x1=3D"847.25" y1=3D"5" x2=3D"847.25" y2=3D"253"></=
+line><line stroke-dasharray=3D"3 3" stroke=3D"#E5E7EB" fill=3D"none" x=3D"6=
+5" y=3D"5" width=3D"1341" height=3D"248" x1=3D"1070.75" y1=3D"5" x2=3D"1070=
+.75" y2=3D"253"></line><line stroke-dasharray=3D"3 3" stroke=3D"#E5E7EB" fi=
+ll=3D"none" x=3D"65" y=3D"5" width=3D"1341" height=3D"248" x1=3D"1294.25" y=
+1=3D"5" x2=3D"1294.25" y2=3D"253"></line><line stroke-dasharray=3D"3 3" str=
+oke=3D"#E5E7EB" fill=3D"none" x=3D"65" y=3D"5" width=3D"1341" height=3D"248=
+" x1=3D"65" y1=3D"5" x2=3D"65" y2=3D"253"></line><line stroke-dasharray=3D"=
+3 3" stroke=3D"#E5E7EB" fill=3D"none" x=3D"65" y=3D"5" width=3D"1341" heigh=
+t=3D"248" x1=3D"1406" y1=3D"5" x2=3D"1406" y2=3D"253"></line></g></g></g><g=
+ tabindex=3D"-1" class=3D"recharts-zIndex-layer_-50"></g><defs><clipPath id=
+=3D"recharts1362-clip"><rect x=3D"65" y=3D"5" height=3D"248" width=3D"1341"=
+></rect></clipPath></defs><g tabindex=3D"-1" class=3D"recharts-zIndex-layer=
+_100"></g><g tabindex=3D"-1" class=3D"recharts-zIndex-layer_200"></g><g tab=
+index=3D"-1" class=3D"recharts-zIndex-layer_300"><g class=3D"recharts-layer=
+ recharts-bar" id=3D"recharts-bar-_r_3_"><g class=3D"recharts-layer rechart=
+s-bar-rectangles"><g class=3D"recharts-layer"><g class=3D"recharts-layer re=
+charts-bar-rectangle"><g class=3D"recharts-layer recharts-inactive-bar"><pa=
+th fill=3D"#2563EB" name=3D"undefined" x=3D"87.35" y=3D"138.5385" width=3D"=
+178" height=3D"114.4615" class=3D"recharts-rectangle" d=3D"M87.35,146.5385A=
+ 8,8,0,0,1,95.35,138.5385L 257.35,138.5385A 8,8,0,0,1,
+        265.35,146.5385L 265.35,253L 87.35,253Z"></path></g></g><g class=3D=
+"recharts-layer recharts-bar-rectangle"><g class=3D"recharts-layer recharts=
+-inactive-bar"><path fill=3D"#2563EB" name=3D"undefined" x=3D"310.85" y=3D"=
+81.3077" width=3D"178" height=3D"171.6923" class=3D"recharts-rectangle" d=
+=3D"M310.85,89.3077A 8,8,0,0,1,318.85,81.3077L 480.85,81.3077A 8,8,0,0,1,
+        488.85,89.3077L 488.85,253L 310.85,253Z"></path></g></g><g class=3D=
+"recharts-layer recharts-bar-rectangle"><g class=3D"recharts-layer recharts=
+-inactive-bar"><path fill=3D"#2563EB" name=3D"undefined" x=3D"534.35" y=3D"=
+109.9231" width=3D"178" height=3D"143.0769" class=3D"recharts-rectangle" d=
+=3D"M534.35,117.9231A 8,8,0,0,1,542.35,109.9231L 704.35,109.9231A 8,8,0,0,1=
+,
+        712.35,117.9231L 712.35,253L 534.35,253Z"></path></g></g><g class=
+=3D"recharts-layer recharts-bar-rectangle"><g class=3D"recharts-layer recha=
+rts-inactive-bar"><path fill=3D"#2563EB" name=3D"undefined" x=3D"757.85" y=
+=3D"43.1538" width=3D"178" height=3D"209.8462" class=3D"recharts-rectangle"=
+ d=3D"M757.85,51.1538A 8,8,0,0,1,765.85,43.1538L 927.85,43.1538A 8,8,0,0,1,
+        935.85,51.1538L 935.85,253L 757.85,253Z"></path></g></g><g class=3D=
+"recharts-layer recharts-bar-rectangle"><g class=3D"recharts-layer recharts=
+-inactive-bar"><path fill=3D"#2563EB" name=3D"undefined" x=3D"981.35" y=3D"=
+5" width=3D"178" height=3D"248" class=3D"recharts-rectangle" d=3D"M981.35,1=
+3A 8,8,0,0,1,989.35,5L 1151.35,5A 8,8,0,0,1,
+        1159.35,13L 1159.35,253L 981.35,253Z"></path></g></g><g class=3D"re=
+charts-layer recharts-bar-rectangle"><g class=3D"recharts-layer recharts-in=
+active-bar"><path fill=3D"#2563EB" name=3D"undefined" x=3D"1204.85" y=3D"24=
+.0769" width=3D"178" height=3D"228.9231" class=3D"recharts-rectangle" d=3D"=
+M1204.85,32.0769A 8,8,0,0,1,1212.85,24.0769L 1374.85,24.0769A 8,8,0,0,1,
+        1382.85,32.0769L 1382.85,253L 1204.85,253Z"></path></g></g></g></g>=
+</g></g><g tabindex=3D"-1" class=3D"recharts-zIndex-layer_400"></g><g tabin=
+dex=3D"-1" class=3D"recharts-zIndex-layer_500"><g class=3D"recharts-layer r=
+echarts-cartesian-axis recharts-xAxis xAxis"><g class=3D"recharts-cartesian=
+-axis-ticks recharts-xAxis-ticks"><g class=3D"recharts-cartesian-axis-tick-=
+lines recharts-xAxis-tick-lines"><g class=3D"recharts-layer recharts-cartes=
+ian-axis-tick"></g><g class=3D"recharts-layer recharts-cartesian-axis-tick"=
+></g><g class=3D"recharts-layer recharts-cartesian-axis-tick"></g><g class=
+=3D"recharts-layer recharts-cartesian-axis-tick"></g><g class=3D"recharts-l=
+ayer recharts-cartesian-axis-tick"></g><g class=3D"recharts-layer recharts-=
+cartesian-axis-tick"></g></g></g></g><g class=3D"recharts-layer recharts-ca=
+rtesian-axis recharts-yAxis yAxis"><g class=3D"recharts-cartesian-axis-tick=
+s recharts-yAxis-ticks"><g class=3D"recharts-cartesian-axis-tick-lines rech=
+arts-yAxis-tick-lines"><g class=3D"recharts-layer recharts-cartesian-axis-t=
+ick"></g><g class=3D"recharts-layer recharts-cartesian-axis-tick"></g><g cl=
+ass=3D"recharts-layer recharts-cartesian-axis-tick"></g><g class=3D"rechart=
+s-layer recharts-cartesian-axis-tick"></g><g class=3D"recharts-layer rechar=
+ts-cartesian-axis-tick"></g></g></g></g></g><g tabindex=3D"-1" class=3D"rec=
+harts-zIndex-layer_600"></g><g tabindex=3D"-1" class=3D"recharts-zIndex-lay=
+er_1000"></g><g tabindex=3D"-1" class=3D"recharts-zIndex-layer_1100"></g><g=
+ tabindex=3D"-1" class=3D"recharts-zIndex-layer_1200"></g><g tabindex=3D"-1=
+" class=3D"recharts-zIndex-layer_2000"><g class=3D"recharts-cartesian-axis-=
+tick-labels recharts-xAxis-tick-labels"><g class=3D"recharts-layer recharts=
+-cartesian-axis-tick-label"><text stroke=3D"none" height=3D"30" orientation=
+=3D"bottom" width=3D"1341" x=3D"176.75" y=3D"261" class=3D"recharts-text re=
+charts-cartesian-axis-tick-value" text-anchor=3D"middle" fill=3D"#6B7280"><=
+tspan x=3D"176.75" dy=3D"0.71em">Jan</tspan></text></g><g class=3D"recharts=
+-layer recharts-cartesian-axis-tick-label"><text stroke=3D"none" height=3D"=
+30" orientation=3D"bottom" width=3D"1341" x=3D"400.25" y=3D"261" class=3D"r=
+echarts-text recharts-cartesian-axis-tick-value" text-anchor=3D"middle" fil=
+l=3D"#6B7280"><tspan x=3D"400.25" dy=3D"0.71em">Feb</tspan></text></g><g cl=
+ass=3D"recharts-layer recharts-cartesian-axis-tick-label"><text stroke=3D"n=
+one" height=3D"30" orientation=3D"bottom" width=3D"1341" x=3D"623.75" y=3D"=
+261" class=3D"recharts-text recharts-cartesian-axis-tick-value" text-anchor=
+=3D"middle" fill=3D"#6B7280"><tspan x=3D"623.75" dy=3D"0.71em">Mar</tspan><=
+/text></g><g class=3D"recharts-layer recharts-cartesian-axis-tick-label"><t=
+ext stroke=3D"none" height=3D"30" orientation=3D"bottom" width=3D"1341" x=
+=3D"847.25" y=3D"261" class=3D"recharts-text recharts-cartesian-axis-tick-v=
+alue" text-anchor=3D"middle" fill=3D"#6B7280"><tspan x=3D"847.25" dy=3D"0.7=
+1em">Apr</tspan></text></g><g class=3D"recharts-layer recharts-cartesian-ax=
+is-tick-label"><text stroke=3D"none" height=3D"30" orientation=3D"bottom" w=
+idth=3D"1341" x=3D"1070.75" y=3D"261" class=3D"recharts-text recharts-carte=
+sian-axis-tick-value" text-anchor=3D"middle" fill=3D"#6B7280"><tspan x=3D"1=
+070.75" dy=3D"0.71em">May</tspan></text></g><g class=3D"recharts-layer rech=
+arts-cartesian-axis-tick-label"><text stroke=3D"none" height=3D"30" orienta=
+tion=3D"bottom" width=3D"1341" x=3D"1294.25" y=3D"261" class=3D"recharts-te=
+xt recharts-cartesian-axis-tick-value" text-anchor=3D"middle" fill=3D"#6B72=
+80"><tspan x=3D"1294.25" dy=3D"0.71em">Jun</tspan></text></g></g><g class=
+=3D"recharts-cartesian-axis-tick-labels recharts-yAxis-tick-labels"><g clas=
+s=3D"recharts-layer recharts-cartesian-axis-tick-label"><text stroke=3D"non=
+e" orientation=3D"left" width=3D"60" height=3D"248" x=3D"57" y=3D"253" clas=
+s=3D"recharts-text recharts-cartesian-axis-tick-value" text-anchor=3D"end" =
+fill=3D"#6B7280"><tspan x=3D"57" dy=3D"0.355em">0</tspan></text></g><g clas=
+s=3D"recharts-layer recharts-cartesian-axis-tick-label"><text stroke=3D"non=
+e" orientation=3D"left" width=3D"60" height=3D"248" x=3D"57" y=3D"191" clas=
+s=3D"recharts-text recharts-cartesian-axis-tick-value" text-anchor=3D"end" =
+fill=3D"#6B7280"><tspan x=3D"57" dy=3D"0.355em">6500</tspan></text></g><g c=
+lass=3D"recharts-layer recharts-cartesian-axis-tick-label"><text stroke=3D"=
+none" orientation=3D"left" width=3D"60" height=3D"248" x=3D"57" y=3D"129" c=
+lass=3D"recharts-text recharts-cartesian-axis-tick-value" text-anchor=3D"en=
+d" fill=3D"#6B7280"><tspan x=3D"57" dy=3D"0.355em">13000</tspan></text></g>=
+<g class=3D"recharts-layer recharts-cartesian-axis-tick-label"><text stroke=
+=3D"none" orientation=3D"left" width=3D"60" height=3D"248" x=3D"57" y=3D"67=
+" class=3D"recharts-text recharts-cartesian-axis-tick-value" text-anchor=3D=
+"end" fill=3D"#6B7280"><tspan x=3D"57" dy=3D"0.355em">19500</tspan></text><=
+/g><g class=3D"recharts-layer recharts-cartesian-axis-tick-label"><text str=
+oke=3D"none" orientation=3D"left" width=3D"60" height=3D"248" x=3D"57" y=3D=
+"12" class=3D"recharts-text recharts-cartesian-axis-tick-value" text-anchor=
+=3D"end" fill=3D"#6B7280"><tspan x=3D"57" dy=3D"0.355em">26000</tspan></tex=
+t></g></g></g></svg></div></div></div></div></div></div><div class=3D"round=
+ed-2xl border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-800 d=
+ark:bg-gray-950"><h3 class=3D"text-xl font-semibold text-gray-900 dark:text=
+-white">Top Sources</h3><p class=3D"mt-1 text-sm text-gray-500 dark:text-gr=
+ay-400">Traffic channels summary</p><div class=3D"mt-6 space-y-4"><div clas=
+s=3D"space-y-2"><div class=3D"flex items-center justify-between text-sm"><s=
+pan class=3D"text-gray-700 dark:text-gray-300">Organic Search</span><span c=
+lass=3D"font-medium text-gray-900 dark:text-white">42%</span></div><div cla=
+ss=3D"h-2 rounded-full bg-gray-200 dark:bg-gray-800"><div class=3D"h-2 roun=
+ded-full bg-gray-900 dark:bg-white" style=3D"width: 42%;"></div></div></div=
+><div class=3D"space-y-2"><div class=3D"flex items-center justify-between t=
+ext-sm"><span class=3D"text-gray-700 dark:text-gray-300">Social Media</span=
+><span class=3D"font-medium text-gray-900 dark:text-white">28%</span></div>=
+<div class=3D"h-2 rounded-full bg-gray-200 dark:bg-gray-800"><div class=3D"=
+h-2 rounded-full bg-gray-900 dark:bg-white" style=3D"width: 28%;"></div></d=
+iv></div><div class=3D"space-y-2"><div class=3D"flex items-center justify-b=
+etween text-sm"><span class=3D"text-gray-700 dark:text-gray-300">Direct</sp=
+an><span class=3D"font-medium text-gray-900 dark:text-white">18%</span></di=
+v><div class=3D"h-2 rounded-full bg-gray-200 dark:bg-gray-800"><div class=
+=3D"h-2 rounded-full bg-gray-900 dark:bg-white" style=3D"width: 18%;"></div=
+></div></div><div class=3D"space-y-2"><div class=3D"flex items-center justi=
+fy-between text-sm"><span class=3D"text-gray-700 dark:text-gray-300">Referr=
+als</span><span class=3D"font-medium text-gray-900 dark:text-white">12%</sp=
+an></div><div class=3D"h-2 rounded-full bg-gray-200 dark:bg-gray-800"><div =
+class=3D"h-2 rounded-full bg-gray-900 dark:bg-white" style=3D"width: 12%;">=
+</div></div></div></div></div></div><div class=3D"rounded-2xl border border=
+-gray-200 bg-white p-6 shadow-sm dark:border-gray-800 dark:bg-gray-950"><di=
+v><div class=3D"mb-6 flex items-center justify-between"><div><h3 class=3D"t=
+ext-xl font-semibold text-gray-900 dark:text-white">Recent Users</h3><p cla=
+ss=3D"mt-1 text-sm text-gray-500 dark:text-gray-400">Latest registered user=
+s in the system</p></div><button class=3D"rounded-xl border border-gray-200=
+ px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-gray-50 da=
+rk:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800">View All</but=
+ton></div><div class=3D"overflow-x-auto"><table class=3D"min-w-full border-=
+separate border-spacing-y-3"><thead><tr><th class=3D"px-4 text-left text-sm=
+ font-semibold text-gray-500 dark:text-gray-400">Name</th><th class=3D"px-4=
+ text-left text-sm font-semibold text-gray-500 dark:text-gray-400">Email</t=
+h><th class=3D"px-4 text-left text-sm font-semibold text-gray-500 dark:text=
+-gray-400">Role</th><th class=3D"px-4 text-left text-sm font-semibold text-=
+gray-500 dark:text-gray-400">Status</th><th class=3D"px-4 text-left text-sm=
+ font-semibold text-gray-500 dark:text-gray-400">Actions</th></tr></thead><=
+tbody><tr class=3D"rounded-2xl bg-gray-50 dark:bg-gray-900"><td class=3D"ro=
+unded-l-2xl px-4 py-4 text-sm font-medium text-gray-900 dark:text-white">Ah=
+mad Jawabra</td><td class=3D"px-4 py-4 text-sm text-gray-600 dark:text-gray=
+-300">ahmad@example.com</td><td class=3D"px-4 py-4 text-sm text-gray-600 da=
+rk:text-gray-300">Admin</td><td class=3D"px-4 py-4"><span class=3D"rounded-=
+full px-3 py-1 text-xs font-semibold bg-green-100 text-green-700 dark:bg-gr=
+een-900/30 dark:text-green-400">Active</span></td><td class=3D"rounded-r-2x=
+l px-4 py-4"><div class=3D"flex gap-2"><button class=3D"rounded-lg border b=
+order-gray-200 px-3 py-1.5 text-xs font-medium text-gray-700 hover:bg-gray-=
+100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-800">View</b=
+utton><button class=3D"rounded-lg bg-gray-900 px-3 py-1.5 text-xs font-medi=
+um text-white hover:opacity-90 dark:bg-white dark:text-gray-900">Edit</butt=
+on></div></td></tr><tr class=3D"rounded-2xl bg-gray-50 dark:bg-gray-900"><t=
+d class=3D"rounded-l-2xl px-4 py-4 text-sm font-medium text-gray-900 dark:t=
+ext-white">Lina Khaled</td><td class=3D"px-4 py-4 text-sm text-gray-600 dar=
+k:text-gray-300">lina@example.com</td><td class=3D"px-4 py-4 text-sm text-g=
+ray-600 dark:text-gray-300">Manager</td><td class=3D"px-4 py-4"><span class=
+=3D"rounded-full px-3 py-1 text-xs font-semibold bg-green-100 text-green-70=
+0 dark:bg-green-900/30 dark:text-green-400">Active</span></td><td class=3D"=
+rounded-r-2xl px-4 py-4"><div class=3D"flex gap-2"><button class=3D"rounded=
+-lg border border-gray-200 px-3 py-1.5 text-xs font-medium text-gray-700 ho=
+ver:bg-gray-100 dark:border-gray-700 dark:text-gray-200 dark:hover:bg-gray-=
+800">View</button><button class=3D"rounded-lg bg-gray-900 px-3 py-1.5 text-=
+xs font-medium text-white hover:opacity-90 dark:bg-white dark:text-gray-900=
+">Edit</button></div></td></tr><tr class=3D"rounded-2xl bg-gray-50 dark:bg-=
+gray-900"><td class=3D"rounded-l-2xl px-4 py-4 text-sm font-medium text-gra=
+y-900 dark:text-white">Omar Hammad</td><td class=3D"px-4 py-4 text-sm text-=
+gray-600 dark:text-gray-300">omar@example.com</td><td class=3D"px-4 py-4 te=
+xt-sm text-gray-600 dark:text-gray-300">Editor</td><td class=3D"px-4 py-4">=
+<span class=3D"rounded-full px-3 py-1 text-xs font-semibold bg-yellow-100 t=
+ext-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-400">Pending</span></=
+td><td class=3D"rounded-r-2xl px-4 py-4"><div class=3D"flex gap-2"><button =
+class=3D"rounded-lg border border-gray-200 px-3 py-1.5 text-xs font-medium =
+text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-gray-200 dar=
+k:hover:bg-gray-800">View</button><button class=3D"rounded-lg bg-gray-900 p=
+x-3 py-1.5 text-xs font-medium text-white hover:opacity-90 dark:bg-white da=
+rk:text-gray-900">Edit</button></div></td></tr><tr class=3D"rounded-2xl bg-=
+gray-50 dark:bg-gray-900"><td class=3D"rounded-l-2xl px-4 py-4 text-sm font=
+-medium text-gray-900 dark:text-white">Sara Nasser</td><td class=3D"px-4 py=
+-4 text-sm text-gray-600 dark:text-gray-300">sara@example.com</td><td class=
+=3D"px-4 py-4 text-sm text-gray-600 dark:text-gray-300">Support</td><td cla=
+ss=3D"px-4 py-4"><span class=3D"rounded-full px-3 py-1 text-xs font-semibol=
+d bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400">Act=
+ive</span></td><td class=3D"rounded-r-2xl px-4 py-4"><div class=3D"flex gap=
+-2"><button class=3D"rounded-lg border border-gray-200 px-3 py-1.5 text-xs =
+font-medium text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-=
+gray-200 dark:hover:bg-gray-800">View</button><button class=3D"rounded-lg b=
+g-gray-900 px-3 py-1.5 text-xs font-medium text-white hover:opacity-90 dark=
+:bg-white dark:text-gray-900">Edit</button></div></td></tr></tbody></table>=
+</div></div></div></div></main></div></div></div>
+   =20
+ =20
+
+<span id=3D"recharts_measurement_span" aria-hidden=3D"true" style=3D"positi=
+on: absolute; top: -20000px; left: 0px; padding: 0px; margin: 0px; border: =
+none; white-space: pre; font-size: 16px; letter-spacing: normal;">150</span=
+></body></html>
+------MultipartBoundary--YV8pWzUFcANrcIvCMkZmLEVMr5gS6K337C79uZcBl1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2e01ee26-002c-4870-9b5e-3efcd7968c72@mhtml.blink
+
+@charset "utf-8";
+
+@layer properties;
+
+@layer theme, base, components, utilities;
+
+@layer theme {
+  :root, :host { --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple =
+Color Emoji",
+      "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; --font-mono:=
+ ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+      "Courier New", monospace; --color-red-50: oklch(97.1% 0.013 17.38); -=
+-color-red-500: oklch(63.7% 0.237 25.331); --color-red-600: oklch(57.7% 0.2=
+45 27.325); --color-red-950: oklch(25.8% 0.092 26.042); --color-amber-400: =
+oklch(82.8% 0.189 84.429); --color-amber-500: oklch(76.9% 0.188 70.08); --c=
+olor-yellow-100: oklch(97.3% 0.071 103.193); --color-yellow-400: oklch(85.2=
+% 0.199 91.936); --color-yellow-700: oklch(55.4% 0.135 66.442); --color-yel=
+low-900: oklch(42.1% 0.095 57.708); --color-green-100: oklch(96.2% 0.044 15=
+6.743); --color-green-400: oklch(79.2% 0.209 151.711); --color-green-600: o=
+klch(62.7% 0.194 149.214); --color-green-700: oklch(52.7% 0.154 150.069); -=
+-color-green-900: oklch(39.3% 0.095 152.535); --color-emerald-400: oklch(76=
+.5% 0.177 163.223); --color-emerald-500: oklch(69.6% 0.17 162.48); --color-=
+blue-400: oklch(70.7% 0.165 254.624); --color-blue-500: oklch(62.3% 0.214 2=
+59.815); --color-blue-600: oklch(54.6% 0.245 262.881); --color-violet-400: =
+oklch(70.2% 0.183 293.541); --color-violet-500: oklch(60.6% 0.25 292.717); =
+--color-rose-400: oklch(71.2% 0.194 13.428); --color-rose-500: oklch(64.5% =
+0.246 16.439); --color-slate-300: oklch(86.9% 0.022 252.894); --color-slate=
+-400: oklch(70.4% 0.04 256.788); --color-slate-500: oklch(55.4% 0.046 257.4=
+17); --color-slate-700: oklch(37.2% 0.044 257.287); --color-slate-800: oklc=
+h(27.9% 0.041 260.031); --color-slate-900: oklch(20.8% 0.042 265.755); --co=
+lor-slate-950: oklch(12.9% 0.042 264.695); --color-gray-50: oklch(98.5% 0.0=
+02 247.839); --color-gray-100: oklch(96.7% 0.003 264.542); --color-gray-200=
+: oklch(92.8% 0.006 264.531); --color-gray-300: oklch(87.2% 0.01 258.338); =
+--color-gray-400: oklch(70.7% 0.022 261.325); --color-gray-500: oklch(55.1%=
+ 0.027 264.364); --color-gray-600: oklch(44.6% 0.03 256.802); --color-gray-=
+700: oklch(37.3% 0.034 259.733); --color-gray-800: oklch(27.8% 0.033 256.84=
+8); --color-gray-900: oklch(21% 0.034 264.665); --color-gray-950: oklch(13%=
+ 0.028 261.692); --color-white: #fff; --spacing: 0.25rem; --container-md: 2=
+8rem; --text-xs: 0.75rem; --text-xs--line-height: calc(1 / 0.75); --text-sm=
+: 0.875rem; --text-sm--line-height: calc(1.25 / 0.875); --text-lg: 1.125rem=
+; --text-lg--line-height: calc(1.75 / 1.125); --text-xl: 1.25rem; --text-xl=
+--line-height: calc(1.75 / 1.25); --text-2xl: 1.5rem; --text-2xl--line-heig=
+ht: calc(2 / 1.5); --text-3xl: 1.875rem; --text-3xl--line-height: calc(2.25=
+ / 1.875); --font-weight-medium: 500; --font-weight-semibold: 600; --font-w=
+eight-bold: 700; --radius-lg: 0.5rem; --radius-xl: 0.75rem; --radius-2xl: 1=
+rem; --radius-3xl: 1.5rem; --blur-sm: 8px; --default-transition-duration: 1=
+50ms; --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); -=
+-default-font-family: var(--font-sans); --default-mono-font-family: var(--f=
+ont-mono); }
+}
+
+@layer base {
+  *, ::after, ::before, ::backdrop, ::file-selector-button { box-sizing: bo=
+rder-box; margin: 0px; padding: 0px; border: 0px solid; }
+  html, :host { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font=
+-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "=
+Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"=
+); font-feature-settings: var(--default-font-feature-settings, normal); fon=
+t-variation-settings: var(--default-font-variation-settings, normal); -webk=
+it-tap-highlight-color: transparent; }
+  hr { height: 0px; color: inherit; border-top-width: 1px; }
+  abbr:where([title]) { text-decoration: underline dotted; }
+  h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+  a { color: inherit; text-decoration: inherit; }
+  b, strong { font-weight: bolder; }
+  code, kbd, samp, pre { font-family: var(--default-mono-font-family, ui-mo=
+nospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Couri=
+er New", monospace); font-feature-settings: var(--default-mono-font-feature=
+-settings, normal); font-variation-settings: var(--default-mono-font-variat=
+ion-settings, normal); font-size: 1em; }
+  small { font-size: 80%; }
+  sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-a=
+lign: baseline; }
+  sub { bottom: -0.25em; }
+  sup { top: -0.5em; }
+  table { text-indent: 0px; border-color: inherit; border-collapse: collaps=
+e; }
+  progress { vertical-align: baseline; }
+  summary { display: list-item; }
+  ol, ul, menu { list-style: none; }
+  img, svg, video, canvas, audio, iframe, embed, object { display: block; v=
+ertical-align: middle; }
+  img, video { max-width: 100%; height: auto; }
+  button, input, select, optgroup, textarea, ::file-selector-button { font:=
+ inherit; letter-spacing: inherit; color: inherit; border-radius: 0px; back=
+ground-color: transparent; opacity: 1; }
+  :where(select:is([multiple], [size])) optgroup { font-weight: bolder; }
+  :where(select:is([multiple], [size])) optgroup option { padding-inline-st=
+art: 20px; }
+  ::file-selector-button { margin-inline-end: 4px; }
+  ::placeholder { opacity: 1; }
+  @supports (not (-webkit-appearance: -apple-pay-button)) or (contain-intri=
+nsic-size: 1px) {
+  ::placeholder {
+  color: currentcolor;
+  @supports (color: color-mix(in lab, red, red)) {
+  color: color-mix(currentcolor, transparent);
+}
+}
+}
+  textarea { resize: vertical; }
+  ::-webkit-search-decoration { appearance: none; }
+  ::-webkit-date-and-time-value { min-height: 1lh; text-align: inherit; }
+  ::-webkit-datetime-edit { display: inline-flex; }
+  ::-webkit-datetime-edit-fields-wrapper { padding: 0px; }
+  ::-webkit-datetime-edit, ::-webkit-datetime-edit-year-field, ::-webkit-da=
+tetime-edit-month-field, ::-webkit-datetime-edit-day-field, ::-webkit-datet=
+ime-edit-hour-field, ::-webkit-datetime-edit-minute-field, ::-webkit-dateti=
+me-edit-second-field, ::-webkit-datetime-edit-millisecond-field, ::-webkit-=
+datetime-edit-meridiem-field { padding-block: 0px; }
+  ::-webkit-calendar-picker-indicator { line-height: 1; }
+  button, input:where([type=3D"button"], [type=3D"reset"], [type=3D"submit"=
+]), ::file-selector-button { appearance: button; }
+  ::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; =
+}
+  [hidden]:where(:not([hidden=3D"until-found"])) { display: none !important=
+; }
+}
+
+@layer utilities {
+  .absolute { position: absolute; }
+  .fixed { position: fixed; }
+  .relative { position: relative; }
+  .inset-0 { inset: calc(var(--spacing) * 0); }
+  .end { inset-inline-end: var(--spacing); }
+  .-top-1 { top: calc(var(--spacing) * -1); }
+  .top-1 { top: calc(var(--spacing) * 1); }
+  .-right-1 { right: calc(var(--spacing) * -1); }
+  .left-1 { left: calc(var(--spacing) * 1); }
+  .z-50 { z-index: 50; }
+  .mt-1 { margin-top: calc(var(--spacing) * 1); }
+  .mt-2 { margin-top: calc(var(--spacing) * 2); }
+  .mt-3 { margin-top: calc(var(--spacing) * 3); }
+  .mt-6 { margin-top: calc(var(--spacing) * 6); }
+  .mt-8 { margin-top: calc(var(--spacing) * 8); }
+  .mb-2 { margin-bottom: calc(var(--spacing) * 2); }
+  .mb-4 { margin-bottom: calc(var(--spacing) * 4); }
+  .mb-6 { margin-bottom: calc(var(--spacing) * 6); }
+  .mb-8 { margin-bottom: calc(var(--spacing) * 8); }
+  .block { display: block; }
+  .flex { display: flex; }
+  .grid { display: grid; }
+  .hidden { display: none; }
+  .inline-flex { display: inline-flex; }
+  .h-2 { height: calc(var(--spacing) * 2); }
+  .h-3 { height: calc(var(--spacing) * 3); }
+  .h-6 { height: calc(var(--spacing) * 6); }
+  .h-8 { height: calc(var(--spacing) * 8); }
+  .h-9 { height: calc(var(--spacing) * 9); }
+  .h-10 { height: calc(var(--spacing) * 10); }
+  .h-72 { height: calc(var(--spacing) * 72); }
+  .h-\[280px\] { height: 280px; }
+  .h-full { height: 100%; }
+  .min-h-screen { min-height: 100vh; }
+  .w-3 { width: calc(var(--spacing) * 3); }
+  .w-6 { width: calc(var(--spacing) * 6); }
+  .w-9 { width: calc(var(--spacing) * 9); }
+  .w-10 { width: calc(var(--spacing) * 10); }
+  .w-14 { width: calc(var(--spacing) * 14); }
+  .w-40 { width: calc(var(--spacing) * 40); }
+  .w-64 { width: calc(var(--spacing) * 64); }
+  .w-\[9\%\] { width: 9%; }
+  .w-\[18\%\] { width: 18%; }
+  .w-\[31\%\] { width: 31%; }
+  .w-\[42\%\] { width: 42%; }
+  .w-full { width: 100%; }
+  .max-w-md { max-width: var(--container-md); }
+  .min-w-\[700px\] { min-width: 700px; }
+  .min-w-\[850px\] { min-width: 850px; }
+  .min-w-full { min-width: 100%; }
+  .flex-1 { flex: 1 1 0%; }
+  .border-separate { border-collapse: separate; }
+  .border-spacing-y-3 { --tw-border-spacing-y: calc(var(--spacing) * 3); bo=
+rder-spacing: var(--tw-border-spacing-x) var(--tw-border-spacing-y); }
+  .translate-x-0 { --tw-translate-x: calc(var(--spacing) * 0); translate: v=
+ar(--tw-translate-x) var(--tw-translate-y); }
+  .translate-x-6 { --tw-translate-x: calc(var(--spacing) * 6); translate: v=
+ar(--tw-translate-x) var(--tw-translate-y); }
+  .transform { transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-=
+rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,); }
+  .grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+  .flex-col { flex-direction: column; }
+  .flex-wrap { flex-wrap: wrap; }
+  .items-center { align-items: center; }
+  .items-start { align-items: flex-start; }
+  .justify-between { justify-content: space-between; }
+  .justify-center { justify-content: center; }
+  .justify-end { justify-content: flex-end; }
+  .gap-2 { gap: calc(var(--spacing) * 2); }
+  .gap-3 { gap: calc(var(--spacing) * 3); }
+  .gap-4 { gap: calc(var(--spacing) * 4); }
+  .gap-5 { gap: calc(var(--spacing) * 5); }
+  .gap-6 { gap: calc(var(--spacing) * 6); }
+  .space-y-2 {
+  :where(& > :not(:last-child)) { --tw-space-y-reverse: 0; margin-block-sta=
+rt: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse)); margin-bloc=
+k-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)))=
+; }
+}
+  .space-y-4 {
+  :where(& > :not(:last-child)) { --tw-space-y-reverse: 0; margin-block-sta=
+rt: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse)); margin-bloc=
+k-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)))=
+; }
+}
+  .space-y-5 {
+  :where(& > :not(:last-child)) { --tw-space-y-reverse: 0; margin-block-sta=
+rt: calc(calc(var(--spacing) * 5) * var(--tw-space-y-reverse)); margin-bloc=
+k-end: calc(calc(var(--spacing) * 5) * calc(1 - var(--tw-space-y-reverse)))=
+; }
+}
+  .space-y-6 {
+  :where(& > :not(:last-child)) { --tw-space-y-reverse: 0; margin-block-sta=
+rt: calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse)); margin-bloc=
+k-end: calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-reverse)))=
+; }
+}
+  .overflow-hidden { overflow: hidden; }
+  .overflow-x-auto { overflow-x: auto; }
+  .rounded-2xl { border-radius: var(--radius-2xl); }
+  .rounded-3xl { border-radius: var(--radius-3xl); }
+  .rounded-full { border-radius: calc(infinity * 1px); }
+  .rounded-lg { border-radius: var(--radius-lg); }
+  .rounded-xl { border-radius: var(--radius-xl); }
+  .rounded-l-2xl { border-top-left-radius: var(--radius-2xl); border-bottom=
+-left-radius: var(--radius-2xl); }
+  .rounded-r-2xl { border-top-right-radius: var(--radius-2xl); border-botto=
+m-right-radius: var(--radius-2xl); }
+  .border { border-style: var(--tw-border-style); border-width: 1px; }
+  .border-t { border-top-style: var(--tw-border-style); border-top-width: 1=
+px; }
+  .border-r { border-right-style: var(--tw-border-style); border-right-widt=
+h: 1px; }
+  .border-b { border-bottom-style: var(--tw-border-style); border-bottom-wi=
+dth: 1px; }
+  .border-dashed { --tw-border-style: dashed; border-style: dashed; }
+  .border-amber-500\/20 {
+  border-color: color-mix(in srgb, oklch(0.769 0.188 70.08) 20%, transparen=
+t);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-amber-500) 20%, transparent=
+);
+}
+}
+  .border-blue-500\/20 {
+  border-color: color-mix(in srgb, oklch(0.623 0.214 259.815) 20%, transpar=
+ent);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-blue-500) 20%, transparent)=
+;
+}
+}
+  .border-emerald-500\/20 {
+  border-color: color-mix(in srgb, oklch(0.696 0.17 162.48) 20%, transparen=
+t);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-emerald-500) 20%, transpare=
+nt);
+}
+}
+  .border-gray-200 { border-color: var(--color-gray-200); }
+  .border-gray-300 { border-color: var(--color-gray-300); }
+  .border-rose-500\/20 {
+  border-color: color-mix(in srgb, oklch(0.645 0.246 16.439) 20%, transpare=
+nt);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-rose-500) 20%, transparent)=
+;
+}
+}
+  .border-slate-500\/20 {
+  border-color: color-mix(in srgb, oklch(0.554 0.046 257.417) 20%, transpar=
+ent);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-slate-500) 20%, transparent=
+);
+}
+}
+  .border-slate-700 { border-color: var(--color-slate-700); }
+  .border-slate-800 { border-color: var(--color-slate-800); }
+  .border-slate-800\/70 {
+  border-color: color-mix(in srgb, oklch(0.279 0.041 260.031) 70%, transpar=
+ent);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-slate-800) 70%, transparent=
+);
+}
+}
+  .border-violet-500\/20 {
+  border-color: color-mix(in srgb, oklch(0.606 0.25 292.717) 20%, transpare=
+nt);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-violet-500) 20%, transparen=
+t);
+}
+}
+  .bg-amber-500 { background-color: var(--color-amber-500); }
+  .bg-amber-500\/15 {
+  background-color: color-mix(in srgb, oklch(0.769 0.188 70.08) 15%, transp=
+arent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-amber-500) 15%, transpa=
+rent);
+}
+}
+  .bg-blue-500 { background-color: var(--color-blue-500); }
+  .bg-blue-500\/15 {
+  background-color: color-mix(in srgb, oklch(0.623 0.214 259.815) 15%, tran=
+sparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-blue-500) 15%, transpar=
+ent);
+}
+}
+  .bg-blue-600 { background-color: var(--color-blue-600); }
+  .bg-blue-600\/20 {
+  background-color: color-mix(in srgb, oklch(0.546 0.245 262.881) 20%, tran=
+sparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-blue-600) 20%, transpar=
+ent);
+}
+}
+  .bg-emerald-500 { background-color: var(--color-emerald-500); }
+  .bg-emerald-500\/15 {
+  background-color: color-mix(in srgb, oklch(0.696 0.17 162.48) 15%, transp=
+arent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-emerald-500) 15%, trans=
+parent);
+}
+}
+  .bg-gray-50 { background-color: var(--color-gray-50); }
+  .bg-gray-100 { background-color: var(--color-gray-100); }
+  .bg-gray-200 { background-color: var(--color-gray-200); }
+  .bg-gray-900 { background-color: var(--color-gray-900); }
+  .bg-green-100 { background-color: var(--color-green-100); }
+  .bg-red-500 { background-color: var(--color-red-500); }
+  .bg-rose-500\/10 {
+  background-color: color-mix(in srgb, oklch(0.645 0.246 16.439) 10%, trans=
+parent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-rose-500) 10%, transpar=
+ent);
+}
+}
+  .bg-rose-500\/15 {
+  background-color: color-mix(in srgb, oklch(0.645 0.246 16.439) 15%, trans=
+parent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-rose-500) 15%, transpar=
+ent);
+}
+}
+  .bg-slate-500\/15 {
+  background-color: color-mix(in srgb, oklch(0.554 0.046 257.417) 15%, tran=
+sparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-slate-500) 15%, transpa=
+rent);
+}
+}
+  .bg-slate-700 { background-color: var(--color-slate-700); }
+  .bg-slate-800 { background-color: var(--color-slate-800); }
+  .bg-slate-900 { background-color: var(--color-slate-900); }
+  .bg-slate-950 { background-color: var(--color-slate-950); }
+  .bg-slate-950\/50 {
+  background-color: color-mix(in srgb, oklch(0.129 0.042 264.695), transpar=
+ent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-slate-950) 50%, transpa=
+rent);
+}
+}
+  .bg-slate-950\/70 {
+  background-color: color-mix(in srgb, oklch(0.129 0.042 264.695) 70%, tran=
+sparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-slate-950) 70%, transpa=
+rent);
+}
+}
+  .bg-transparent { background-color: transparent; }
+  .bg-violet-500 { background-color: var(--color-violet-500); }
+  .bg-violet-500\/15 {
+  background-color: color-mix(in srgb, oklch(0.606 0.25 292.717) 15%, trans=
+parent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-violet-500) 15%, transp=
+arent);
+}
+}
+  .bg-white { background-color: var(--color-white); }
+  .bg-yellow-100 { background-color: var(--color-yellow-100); }
+  .p-2 { padding: calc(var(--spacing) * 2); }
+  .p-2\.5 { padding: calc(var(--spacing) * 2.5); }
+  .p-4 { padding: calc(var(--spacing) * 4); }
+  .p-5 { padding: calc(var(--spacing) * 5); }
+  .p-6 { padding: calc(var(--spacing) * 6); }
+  .p-8 { padding: calc(var(--spacing) * 8); }
+  .px-3 { padding-inline: calc(var(--spacing) * 3); }
+  .px-4 { padding-inline: calc(var(--spacing) * 4); }
+  .px-5 { padding-inline: calc(var(--spacing) * 5); }
+  .py-1 { padding-block: calc(var(--spacing) * 1); }
+  .py-1\.5 { padding-block: calc(var(--spacing) * 1.5); }
+  .py-2 { padding-block: calc(var(--spacing) * 2); }
+  .py-3 { padding-block: calc(var(--spacing) * 3); }
+  .py-4 { padding-block: calc(var(--spacing) * 4); }
+  .py-6 { padding-block: calc(var(--spacing) * 6); }
+  .py-8 { padding-block: calc(var(--spacing) * 8); }
+  .pt-6 { padding-top: calc(var(--spacing) * 6); }
+  .pb-4 { padding-bottom: calc(var(--spacing) * 4); }
+  .text-center { text-align: center; }
+  .text-left { text-align: left; }
+  .text-2xl { font-size: var(--text-2xl); line-height: var(--tw-leading, va=
+r(--text-2xl--line-height)); }
+  .text-3xl { font-size: var(--text-3xl); line-height: var(--tw-leading, va=
+r(--text-3xl--line-height)); }
+  .text-lg { font-size: var(--text-lg); line-height: var(--tw-leading, var(=
+--text-lg--line-height)); }
+  .text-sm { font-size: var(--text-sm); line-height: var(--tw-leading, var(=
+--text-sm--line-height)); }
+  .text-xl { font-size: var(--text-xl); line-height: var(--tw-leading, var(=
+--text-xl--line-height)); }
+  .text-xs { font-size: var(--text-xs); line-height: var(--tw-leading, var(=
+--text-xs--line-height)); }
+  .font-bold { --tw-font-weight: var(--font-weight-bold); font-weight: var(=
+--font-weight-bold); }
+  .font-medium { --tw-font-weight: var(--font-weight-medium); font-weight: =
+var(--font-weight-medium); }
+  .font-semibold { --tw-font-weight: var(--font-weight-semibold); font-weig=
+ht: var(--font-weight-semibold); }
+  .text-amber-400 { color: var(--color-amber-400); }
+  .text-blue-400 { color: var(--color-blue-400); }
+  .text-emerald-400 { color: var(--color-emerald-400); }
+  .text-gray-400 { color: var(--color-gray-400); }
+  .text-gray-500 { color: var(--color-gray-500); }
+  .text-gray-600 { color: var(--color-gray-600); }
+  .text-gray-700 { color: var(--color-gray-700); }
+  .text-gray-900 { color: var(--color-gray-900); }
+  .text-green-600 { color: var(--color-green-600); }
+  .text-green-700 { color: var(--color-green-700); }
+  .text-red-600 { color: var(--color-red-600); }
+  .text-rose-400 { color: var(--color-rose-400); }
+  .text-slate-300 { color: var(--color-slate-300); }
+  .text-slate-400 { color: var(--color-slate-400); }
+  .text-slate-500 { color: var(--color-slate-500); }
+  .text-violet-400 { color: var(--color-violet-400); }
+  .text-white { color: var(--color-white); }
+  .text-yellow-700 { color: var(--color-yellow-700); }
+  .shadow-2xl { --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0=
+ 0 0 / 0.25)); box-shadow: var(--tw-inset-shadow), var(--tw-inset-ring-shad=
+ow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);=
+ }
+  .shadow-sm { --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / =
+0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1)); box-shadow:=
+ var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-=
+shadow), var(--tw-ring-shadow), var(--tw-shadow); }
+  .filter { filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast=
+,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-sa=
+turate,) var(--tw-sepia,) var(--tw-drop-shadow,); }
+  .backdrop-blur-sm { --tw-backdrop-blur: blur(var(--blur-sm)); backdrop-fi=
+lter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-back=
+drop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,=
+) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-=
+saturate,) var(--tw-backdrop-sepia,); }
+  .transition { transition-property: color, background-color, border-color,=
+ outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --=
+tw-gradient-via, --tw-gradient-to, opacity, box-shadow, transform, translat=
+e, scale, rotate, filter, -webkit-backdrop-filter, backdrop-filter, display=
+, content-visibility, overlay, pointer-events; transition-timing-function: =
+var(--tw-ease, var(--default-transition-timing-function)); transition-durat=
+ion: var(--tw-duration, var(--default-transition-duration)); }
+  .transition-colors { transition-property: color, background-color, border=
+-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-f=
+rom, --tw-gradient-via, --tw-gradient-to; transition-timing-function: var(-=
+-tw-ease, var(--default-transition-timing-function)); transition-duration: =
+var(--tw-duration, var(--default-transition-duration)); }
+  .duration-300 { --tw-duration: 300ms; transition-duration: 300ms; }
+  .outline-none { --tw-outline-style: none; outline-style: none; }
+  .placeholder\:text-gray-400 {
+  &::placeholder { color: var(--color-gray-400); }
+}
+  .placeholder\:text-slate-500 {
+  &::placeholder { color: var(--color-slate-500); }
+}
+  .hover\:border-rose-500\/50 {
+  &:hover {
+  @media (hover: hover) {
+  border-color: color-mix(in srgb, oklch(0.645 0.246 16.439), transparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  border-color: color-mix(in oklab, var(--color-rose-500) 50%, transparent)=
+;
+}
+}
+}
+}
+  .hover\:border-slate-500 {
+  &:hover {
+  @media (hover: hover) {
+  border-color: var(--color-slate-500);
+}
+}
+}
+  .hover\:border-slate-700 {
+  &:hover {
+  @media (hover: hover) {
+  border-color: var(--color-slate-700);
+}
+}
+}
+  .hover\:bg-blue-500 {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-blue-500);
+}
+}
+}
+  .hover\:bg-gray-50 {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-gray-50);
+}
+}
+}
+  .hover\:bg-gray-100 {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-gray-100);
+}
+}
+}
+  .hover\:bg-red-50 {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-red-50);
+}
+}
+}
+  .hover\:bg-slate-800 {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-slate-800);
+}
+}
+}
+  .hover\:bg-slate-800\/40 {
+  &:hover {
+  @media (hover: hover) {
+  background-color: color-mix(in srgb, oklch(0.279 0.041 260.031) 40%, tran=
+sparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-slate-800) 40%, transpa=
+rent);
+}
+}
+}
+}
+  .hover\:text-rose-400 {
+  &:hover {
+  @media (hover: hover) {
+  color: var(--color-rose-400);
+}
+}
+}
+  .hover\:text-white {
+  &:hover {
+  @media (hover: hover) {
+  color: var(--color-white);
+}
+}
+}
+  .hover\:opacity-90 {
+  &:hover {
+  @media (hover: hover) {
+  opacity: 0.9;
+}
+}
+}
+  .hover\:shadow-md {
+  &:hover {
+  @media (hover: hover) {
+  --tw-shadow: 0 4px 6px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 2=
+px 4px -2px var(--tw-shadow-color, rgb(0 0 0 / 0.1)); box-shadow: var(--tw-=
+inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), v=
+ar(--tw-ring-shadow), var(--tw-shadow);
+}
+}
+}
+  .focus\:border-blue-500 {
+  &:focus { border-color: var(--color-blue-500); }
+}
+  .sm\:block {
+  @media (width >=3D 40rem) {
+  display: block;
+}
+}
+  .sm\:flex-row {
+  @media (width >=3D 40rem) {
+  flex-direction: row;
+}
+}
+  .sm\:items-center {
+  @media (width >=3D 40rem) {
+  align-items: center;
+}
+}
+  .md\:grid-cols-2 {
+  @media (width >=3D 48rem) {
+  grid-template-columns: repeat(2, minmax(0px, 1fr));
+}
+}
+  .md\:grid-cols-3 {
+  @media (width >=3D 48rem) {
+  grid-template-columns: repeat(3, minmax(0px, 1fr));
+}
+}
+  .md\:flex-row {
+  @media (width >=3D 48rem) {
+  flex-direction: row;
+}
+}
+  .md\:items-center {
+  @media (width >=3D 48rem) {
+  align-items: center;
+}
+}
+  .md\:justify-between {
+  @media (width >=3D 48rem) {
+  justify-content: space-between;
+}
+}
+  .md\:p-8 {
+  @media (width >=3D 48rem) {
+  padding: calc(var(--spacing) * 8);
+}
+}
+  .xl\:col-span-2 {
+  @media (width >=3D 80rem) {
+  grid-column: span 2 / span 2;
+}
+}
+  .xl\:grid-cols-3 {
+  @media (width >=3D 80rem) {
+  grid-template-columns: repeat(3, minmax(0px, 1fr));
+}
+}
+  .xl\:grid-cols-4 {
+  @media (width >=3D 80rem) {
+  grid-template-columns: repeat(4, minmax(0px, 1fr));
+}
+}
+  .dark\:border-gray-700 {
+  &:where(.dark, .dark *) { border-color: var(--color-gray-700); }
+}
+  .dark\:border-gray-800 {
+  &:where(.dark, .dark *) { border-color: var(--color-gray-800); }
+}
+  .dark\:bg-gray-800 {
+  &:where(.dark, .dark *) { background-color: var(--color-gray-800); }
+}
+  .dark\:bg-gray-900 {
+  &:where(.dark, .dark *) { background-color: var(--color-gray-900); }
+}
+  .dark\:bg-gray-950 {
+  &:where(.dark, .dark *) { background-color: var(--color-gray-950); }
+}
+  .dark\:bg-green-900\/30 {
+  &:where(.dark, .dark *) {
+  background-color: color-mix(in srgb, oklch(0.393 0.095 152.535) 30%, tran=
+sparent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-green-900) 30%, transpa=
+rent);
+}
+}
+}
+  .dark\:bg-white {
+  &:where(.dark, .dark *) { background-color: var(--color-white); }
+}
+  .dark\:bg-yellow-900\/30 {
+  &:where(.dark, .dark *) {
+  background-color: color-mix(in srgb, oklch(0.421 0.095 57.708) 30%, trans=
+parent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-yellow-900) 30%, transp=
+arent);
+}
+}
+}
+  .dark\:text-gray-200 {
+  &:where(.dark, .dark *) { color: var(--color-gray-200); }
+}
+  .dark\:text-gray-300 {
+  &:where(.dark, .dark *) { color: var(--color-gray-300); }
+}
+  .dark\:text-gray-400 {
+  &:where(.dark, .dark *) { color: var(--color-gray-400); }
+}
+  .dark\:text-gray-500 {
+  &:where(.dark, .dark *) { color: var(--color-gray-500); }
+}
+  .dark\:text-gray-900 {
+  &:where(.dark, .dark *) { color: var(--color-gray-900); }
+}
+  .dark\:text-green-400 {
+  &:where(.dark, .dark *) { color: var(--color-green-400); }
+}
+  .dark\:text-white {
+  &:where(.dark, .dark *) { color: var(--color-white); }
+}
+  .dark\:text-yellow-400 {
+  &:where(.dark, .dark *) { color: var(--color-yellow-400); }
+}
+  .dark\:placeholder\:text-gray-500 {
+  &:where(.dark, .dark *) {
+  &::placeholder { color: var(--color-gray-500); }
+}
+}
+  .dark\:hover\:bg-gray-700 {
+  &:where(.dark, .dark *) {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-gray-700);
+}
+}
+}
+}
+  .dark\:hover\:bg-gray-800 {
+  &:where(.dark, .dark *) {
+  &:hover {
+  @media (hover: hover) {
+  background-color: var(--color-gray-800);
+}
+}
+}
+}
+  .dark\:hover\:bg-red-950\/30 {
+  &:where(.dark, .dark *) {
+  &:hover {
+  @media (hover: hover) {
+  background-color: color-mix(in srgb, oklch(0.258 0.092 26.042) 30%, trans=
+parent);
+  @supports (color: color-mix(in lab, red, red)) {
+  background-color: color-mix(in oklab, var(--color-red-950) 30%, transpare=
+nt);
+}
+}
+}
+}
+}
+}
+
+@property --tw-border-spacing-x { syntax: "<length>"; inherits: false; init=
+ial-value: 0; }
+
+@property --tw-border-spacing-y { syntax: "<length>"; inherits: false; init=
+ial-value: 0; }
+
+@property --tw-translate-x { syntax: "*"; inherits: false; initial-value: 0=
+; }
+
+@property --tw-translate-y { syntax: "*"; inherits: false; initial-value: 0=
+; }
+
+@property --tw-translate-z { syntax: "*"; inherits: false; initial-value: 0=
+; }
+
+@property --tw-rotate-x { syntax: "*"; inherits: false; }
+
+@property --tw-rotate-y { syntax: "*"; inherits: false; }
+
+@property --tw-rotate-z { syntax: "*"; inherits: false; }
+
+@property --tw-skew-x { syntax: "*"; inherits: false; }
+
+@property --tw-skew-y { syntax: "*"; inherits: false; }
+
+@property --tw-space-y-reverse { syntax: "*"; inherits: false; initial-valu=
+e: 0; }
+
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: =
+solid; }
+
+@property --tw-font-weight { syntax: "*"; inherits: false; }
+
+@property --tw-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0=
+000; }
+
+@property --tw-shadow-color { syntax: "*"; inherits: false; }
+
+@property --tw-shadow-alpha { syntax: "<percentage>"; inherits: false; init=
+ial-value: 100%; }
+
+@property --tw-inset-shadow { syntax: "*"; inherits: false; initial-value: =
+0 0 #0000; }
+
+@property --tw-inset-shadow-color { syntax: "*"; inherits: false; }
+
+@property --tw-inset-shadow-alpha { syntax: "<percentage>"; inherits: false=
+; initial-value: 100%; }
+
+@property --tw-ring-color { syntax: "*"; inherits: false; }
+
+@property --tw-ring-shadow { syntax: "*"; inherits: false; initial-value: 0=
+ 0 #0000; }
+
+@property --tw-inset-ring-color { syntax: "*"; inherits: false; }
+
+@property --tw-inset-ring-shadow { syntax: "*"; inherits: false; initial-va=
+lue: 0 0 #0000; }
+
+@property --tw-ring-inset { syntax: "*"; inherits: false; }
+
+@property --tw-ring-offset-width { syntax: "<length>"; inherits: false; ini=
+tial-value: 0px; }
+
+@property --tw-ring-offset-color { syntax: "*"; inherits: false; initial-va=
+lue: #fff; }
+
+@property --tw-ring-offset-shadow { syntax: "*"; inherits: false; initial-v=
+alue: 0 0 #0000; }
+
+@property --tw-blur { syntax: "*"; inherits: false; }
+
+@property --tw-brightness { syntax: "*"; inherits: false; }
+
+@property --tw-contrast { syntax: "*"; inherits: false; }
+
+@property --tw-grayscale { syntax: "*"; inherits: false; }
+
+@property --tw-hue-rotate { syntax: "*"; inherits: false; }
+
+@property --tw-invert { syntax: "*"; inherits: false; }
+
+@property --tw-opacity { syntax: "*"; inherits: false; }
+
+@property --tw-saturate { syntax: "*"; inherits: false; }
+
+@property --tw-sepia { syntax: "*"; inherits: false; }
+
+@property --tw-drop-shadow { syntax: "*"; inherits: false; }
+
+@property --tw-drop-shadow-color { syntax: "*"; inherits: false; }
+
+@property --tw-drop-shadow-alpha { syntax: "<percentage>"; inherits: false;=
+ initial-value: 100%; }
+
+@property --tw-drop-shadow-size { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-blur { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-brightness { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-contrast { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-grayscale { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-hue-rotate { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-invert { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-opacity { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-saturate { syntax: "*"; inherits: false; }
+
+@property --tw-backdrop-sepia { syntax: "*"; inherits: false; }
+
+@property --tw-duration { syntax: "*"; inherits: false; }
+
+@layer properties {
+  @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((=
+-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
+  *, ::before, ::after, ::backdrop { --tw-border-spacing-x: 0; --tw-border-=
+spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-translate-z: 0=
+; --tw-rotate-x: initial; --tw-rotate-y: initial; --tw-rotate-z: initial; -=
+-tw-skew-x: initial; --tw-skew-y: initial; --tw-space-y-reverse: 0; --tw-bo=
+rder-style: solid; --tw-font-weight: initial; --tw-shadow: 0 0 #0000; --tw-=
+shadow-color: initial; --tw-shadow-alpha: 100%; --tw-inset-shadow: 0 0 #000=
+0; --tw-inset-shadow-color: initial; --tw-inset-shadow-alpha: 100%; --tw-ri=
+ng-color: initial; --tw-ring-shadow: 0 0 #0000; --tw-inset-ring-color: init=
+ial; --tw-inset-ring-shadow: 0 0 #0000; --tw-ring-inset: initial; --tw-ring=
+-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: =
+0 0 #0000; --tw-blur: initial; --tw-brightness: initial; --tw-contrast: ini=
+tial; --tw-grayscale: initial; --tw-hue-rotate: initial; --tw-invert: initi=
+al; --tw-opacity: initial; --tw-saturate: initial; --tw-sepia: initial; --t=
+w-drop-shadow: initial; --tw-drop-shadow-color: initial; --tw-drop-shadow-a=
+lpha: 100%; --tw-drop-shadow-size: initial; --tw-backdrop-blur: initial; --=
+tw-backdrop-brightness: initial; --tw-backdrop-contrast: initial; --tw-back=
+drop-grayscale: initial; --tw-backdrop-hue-rotate: initial; --tw-backdrop-i=
+nvert: initial; --tw-backdrop-opacity: initial; --tw-backdrop-saturate: ini=
+tial; --tw-backdrop-sepia: initial; --tw-duration: initial; }
+}
+}
+------MultipartBoundary--YV8pWzUFcANrcIvCMkZmLEVMr5gS6K337C79uZcBl1------
