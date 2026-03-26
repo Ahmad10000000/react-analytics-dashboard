@@ -7,14 +7,11 @@ Modern enterprise analytics dashboard built with React, TypeScript, and Tailwind
 ## Preview
 
 ### Light Mode
-![Light](public/dashboard8.png)
+![Light](./public/dashboard8.png)
 
-### Dark Mode
-![Dark](public/dashboard2.png)
+![Dark](./public/dashboard2.png)
 
-### Analytics Chart
-![Analytics](public/dashboard3.png)
-
+![Analytics](./public/dashboard3.png)
 ---
 
 ## Features
